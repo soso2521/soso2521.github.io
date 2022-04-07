@@ -1,0 +1,147 @@
+
+
+body{
+background-color: aliceblue;
+}
+
+
+#imgdec{
+position: absolute; top: 50px; left: 0px;
+}
+
+#heedo{
+    position: absolute; top: 960px; left: 30px;height: 50px;
+}
+
+
+#baek{
+position: absolute; top: 0px; left: 465px;
+}
+   
+#ko{
+position: absolute; top: 0px; left: 420px;
+}
+
+.characters {
+background-color: white;  
+}
+
+#links{
+padding: 5px;
+position: absolute;
+
+}
+
+a {
+    padding-right: 5px;
+}
+
+#header1{
+position: absolute; top: 230px; left: 750px;
+font-family:'Grape Nuts', cursive;
+font-size: 50px;
+}
+
+#profile{
+position: absolute; top: 570px; left: 30px;
+font-family: 'Indie Flower', cursive;
+}
+
+
+#Synopsis{
+position: absolute; top: 570px; left: 450px;
+font-family: 'Indie Flower', cursive;
+max-width: 800px;
+}
+
+#MeetTheCharacters{
+position: absolute; top: 960px; left: 30px;
+font-family: 'Indie Flower', cursive; 
+font-size: 25px;
+font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+width: 700px; height: 450px;
+
+}
+
+.section1{
+    display: flex; 
+    margin-left: 80px;
+    justify-content: center;
+}
+.section1 h2{
+    margin: 2% 0;
+}
+
+.par{
+    max-width: 720px;
+    margin-left: 90px;
+}
+
+.container1{
+    align-items: center;
+    display: flex;
+    margin: 50px;
+}
+
+
+.quote{
+margin-left: 20px;
+font-size: smaller;
+font-weight: lighter;
+}
+h4{
+    margin: auto;
+    max-width: 300px;
+}
+
+.sectiona{
+    width: 900px;
+    height: 280px;
+    background-color: white;
+    display: flex;
+}
+
+.sectiona h4{
+    margin: 100px;
+    margin-top: 20px;
+    color:black;
+}
+
+.container1 img{
+    width: 100px; height: 50px;
+    margin-left: 85px;
+    margin-top: 30px;
+    
+}
+
+
+
+
