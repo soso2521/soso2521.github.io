@@ -14,7 +14,7 @@ position: absolute; top: 55px; left: 0px;
     overflow: hidden;
     border: 1px solid #ccc; 
     background-color: white;
-    position: absolute; top:0px; left: 725px;
+    position: absolute; top:0px; left: 700px;
 }
 
 .tab button{
@@ -23,7 +23,7 @@ position: absolute; top: 55px; left: 0px;
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 19px 41px;
     transition: 0.3s;
 }
 
