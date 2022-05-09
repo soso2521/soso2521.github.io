@@ -21,6 +21,13 @@ background-color: aliceblue;
     transition: 0.3s;
 }
 
+
+#twentyfive{
+width="700" height="450"
+position: absolute; top: 1050px; left: 30px;
+}
+
+
 #heedo{
     position: absolute; top: 1050px; left: 30px;
     }
