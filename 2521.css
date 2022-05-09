@@ -21,21 +21,7 @@ background-color: aliceblue;
     transition: 0.3s;
 }
 
-.twentyfive{
-    width="700" height="450";
-}
 
-#heedo{
-position: absolute; top: 1050px; left: 30px;
-}
-
-#baek{
-position: absolute; top:1050px; left: 475px; 
-}
-
-#ko{
-position: absolute; top: 1050px; left: 915px;
-}
 
 #links{
 padding: 5px;
