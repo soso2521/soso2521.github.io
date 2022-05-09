@@ -21,7 +21,10 @@ background-color: aliceblue;
     transition: 0.3s;
 }
 
-
+#heedo{
+    position: absolute; top: 1050px; left: 30px;
+    }
+    
 
 #links{
 padding: 5px;
