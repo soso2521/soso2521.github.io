@@ -21,7 +21,9 @@ background-color: aliceblue;
     transition: 0.3s;
 }
 
-
+#img{
+    position: absolute; top: 55px; left: 0px 
+}
 
 #heedo{
 position: absolute; top: 1050px; left: 30px;
