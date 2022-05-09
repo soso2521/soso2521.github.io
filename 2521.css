@@ -4,12 +4,6 @@ body{
 background-color: aliceblue;
 }
 
-
-#img{
-position: absolute; top: 55px; left: 0px;
-}
-
-
 .tab{
     overflow: hidden;
     border: 1px solid #ccc; 
