@@ -30,8 +30,17 @@ position: absolute; top: 1050px; left: 30px;
 
 #heedo{
     position: absolute; top: 1050px; left: 30px;
-    }
+}
     
+#baek{
+    position: absolute; top:1050px; left: 475px;
+}
+    
+#ko{
+    position: absolute; top: 1050px; left: 915px;
+}
+    
+
 
 #links{
 padding: 5px;
