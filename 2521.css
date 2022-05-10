@@ -30,10 +30,12 @@ position: absolute; top: 1050px; left: 30px;
 
 #heedo{
     position: absolute; top: 1050px; left: 30px;
+    width="250" height="200"
 }
     
 #baek{
     position: absolute; top:1050px; left: 475px;
+    width="250" height="200"
 }
     
 #ko{
